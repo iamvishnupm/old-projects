@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title> HOME </title>
+		<meta charset="utf-8"/>
+		<meta name="keywords" content=""/>
+		<meta name="description" content=""/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<link type="text/css" rel="stylesheet" href="css/main.css"/>
+	</head>
+
+	<body>
+		<header id="main-header">
+			<div id="logo-container">
+			<img src="img/logo.png"/>
+			<h1> Club 90 Football </h1>
+			</div>
+			<div>
+			</div>
+		</header>
+	</body>
+</html>
+
