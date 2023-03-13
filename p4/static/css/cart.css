@@ -1,0 +1,29 @@
+body {
+    background-color:cyan;
+}
+
+.col {
+    display: flex;
+    align-items: center;
+    gap : 5%;
+    position: relative;
+}
+
+.btn-close {
+    position: absolute;
+    top: 5px;
+    right:5px;
+    font-size: 12px;
+}
+
+.last-col {
+    justify-content: center;
+}
+
+.qty {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap : 10px;
+}
+

@@ -1,0 +1,12 @@
+.image-column img {
+    border-radius: 5px;
+}
+
+.card-title h1 {
+    font-size: calc(100% + 1.5vw + 1.5vh);
+    font-weight: 700;
+}
+
+.card-subtitle h4 {
+    font-weight: 500;
+}
